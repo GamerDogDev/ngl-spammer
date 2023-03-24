@@ -1,2 +1,3 @@
-# ngl-spammer
-Destruye enlaces de NGL.LINK con este poderoso codigo.
+## :hammer:Funcionalidad del proyecto
+
+- Principalmente destruir enlaces de NGL.LINK con SPAM personalizado, 
